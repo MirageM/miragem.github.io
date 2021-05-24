@@ -6,6 +6,7 @@ body{
 
 h4{
   color: Maroon;
+  background-color: steelblue;
 }
 
 #mySignature{
@@ -18,6 +19,8 @@ h4{
 
 h1{
   color: olive;
+  background-color: black;
+
 }
 
 .myBlock{
