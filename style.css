@@ -1,0 +1,27 @@
+
+body{
+	background-color: lightblue;
+
+}
+
+h4{
+  color: Maroon;
+}
+
+#mySignature{
+  text-align: right;
+  color: rebeccapurple;
+  font-style: oblique;
+  font-size: 50%;
+
+}
+
+h1{
+  color: olive;
+}
+
+.myBlock{
+  color: pink;
+  font-size: 18px;
+}
+
